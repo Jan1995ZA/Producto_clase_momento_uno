@@ -1,0 +1,14 @@
+los datos son:
+
+Nombre:Juan
+Apellido:Zapata
+--------------
+Nombre:Alejo
+Apellido:Arismendy
+--------------
+Nombre:Victor
+Apellido:Perez
+--------------
+Nombre:Melissa
+Apellido:Peña
+--------------
